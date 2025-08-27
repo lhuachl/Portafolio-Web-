@@ -81,7 +81,7 @@ export function App() {
 						tech={{ 
 							name: 'Preact', 
 							description: 'Alternativa ligera a React con la misma API', 
-							image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpreactjs.com%2F&psig=AOvVaw25rwsboqFCDqHVd_wL7qbR&ust=1756380982805000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDhsbfzqo8DFQAAAAAdAAAAABAE"
+							image: "https://proppyjs.com/img/preact-logo.png"
 						}}
 						techLore={{
 							name: 'Preact',
