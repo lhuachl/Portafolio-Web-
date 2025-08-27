@@ -15,7 +15,7 @@ export default function HeroSection() {
                 </div>
                 <div className="hero-profile">
                     <div className="profile-container">
-                        <img src="../../public/image.png" alt="Alex Joshua Villegas" width={"150px"} height={"150px"} />
+                        <img src="https://img.freepik.com/premium-vector/man-avatar-profile-picture-vector-illustration_268834-538.jpg" alt="Alex Joshua Villegas" width={"150px"} height={"150px"} />
                         <div className="profile-info">
                             <div className="info-line">
                                 <span className="info-label">Status:</span>
