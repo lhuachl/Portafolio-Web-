@@ -27,7 +27,7 @@ export default function HeroSection() {
                             </div>
                             <div className="info-line">
                                 <span className="info-label">Focus:</span>
-                                <span className="info-value">Full Stack + Security</span>
+                                <span className="info-value">Full Stack</span>
                             </div>
                         </div>
                     </div>
