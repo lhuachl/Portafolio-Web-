@@ -23,7 +23,7 @@ export default function HeroSection() {
                             </div>
                             <div className="info-line">
                                 <span className="info-label">Location:</span>
-                                <span className="info-value">Remote</span>
+                                <span className="info-value">Bolivia</span>
                             </div>
                             <div className="info-line">
                                 <span className="info-label">Focus:</span>
