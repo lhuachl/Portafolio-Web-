@@ -153,9 +153,9 @@ export function App() {
 					/>
 					<TechsCard 
 						tech={{ 
-							name: 'MCP Protocol', 
-							description: 'SDK de protocolo Anthropic para interacción LLM', 
-							image: "https://cdn.jsdelivr.net/gh/anthropics/anthropic-sdk-python@main/assets/anthropic-logo.svg"
+							name: 'Model context protocol', 
+							description: 'SDK  de protocolo Anthropic para interacción LLM  - Libreria de python', 
+							image: "https://avatars.githubusercontent.com/u/182288589?s=200&v=4"
 						}}
 						techLore={{
 							name: 'MCP Protocol',
